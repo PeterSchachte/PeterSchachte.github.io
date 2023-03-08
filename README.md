@@ -1,2 +1,1 @@
-# peterschachte.github.io
-My website I use as a homepage
+hello everybody! I'm on the internet!
